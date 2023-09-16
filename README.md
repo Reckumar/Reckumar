@@ -1,4 +1,4 @@
-![Logo](https://github.com/Reckumar/Reckumar/blob/main/Untitled%20design.png)
+![logo](https://github.com/Reckumar/Reckumar/blob/main/banner.png)
 <h1 align="center">Hi 👋, I'm Dileep Kumar</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 <img align="right" alt="coding" width="400" src="https://media4.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
